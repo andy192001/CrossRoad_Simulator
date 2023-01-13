@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8945840824880823348
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 187330664660230373, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 74196cf5d503c14488ae1ef1dbc6c9a4, type: 2}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311311803080157842, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Name
+      value: Free Racing Car Purple Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1016151393840242557, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+--- !u!1 &5895817052636305062 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3311311803080157842, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6179682733755043743 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3018720586628133803, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2394823747530420692 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6708706858096201184, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8630390510084893715 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 856612622373900327, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1089942473224896963 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8288384950464101879, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5039327540092719810 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4163942240364048118, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &6455012777549825202 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 2716459193614891142, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &4515035757975311957 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 4795950753765878369, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &6305098157701034432 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 3145262460232535540, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &8253682875560158951 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 1057494946909100755, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 8945840824880823348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &177017468769607378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5895817052636305062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67786f27757b7c24695c8b95dd3d33a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currSpeed: 0
+  maxSpeed: 15
+  maxMotorTorque: 100
+  path: {fileID: 0}
+  maxSteerAngle: 45
+  sensorLength: 10
+  wheelFL: {fileID: 6455012777549825202}
+  wheelFW: {fileID: 4515035757975311957}
+  wheelRL: {fileID: 6305098157701034432}
+  wheelRW: {fileID: 8253682875560158951}
+  isBraking: 0
+--- !u!64 &6989891303152126628
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6179682733755043743}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2959467708922500008, guid: 9ec6a8fc6925acb4abc5500eeecb8270, type: 3}
+--- !u!114 &5952764710582255135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2394823747530420692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf7e473be47f9cb4bbb4a26e81b2406d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetWheel: {fileID: 6455012777549825202}
+--- !u!114 &7327990215719027138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8630390510084893715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf7e473be47f9cb4bbb4a26e81b2406d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetWheel: {fileID: 4515035757975311957}
+--- !u!114 &3200509390261100865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1089942473224896963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf7e473be47f9cb4bbb4a26e81b2406d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetWheel: {fileID: 6305098157701034432}
+--- !u!114 &3249182399627036892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5039327540092719810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf7e473be47f9cb4bbb4a26e81b2406d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetWheel: {fileID: 8253682875560158951}
